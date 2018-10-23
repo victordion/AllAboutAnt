@@ -1,6 +1,8 @@
 # AllAboutAnt
+
 Concise example on how to use native ant
-'''
+
+```
 .
 ├── build.xml
 ├── lib
@@ -14,4 +16,4 @@ Concise example on how to use native ant
 └── test
     └── oata
         └── HelloWorldTest.java
-'''
+```
