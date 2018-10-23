@@ -1,7 +1,15 @@
 # AllAboutAnt
-
 Concise example on how to use native ant
 
+## Ant version
+
+```
+% ant -version
+
+Apache Ant(TM) version 1.8.3 compiled on July 19 2018
+```
+
+## Folder Structure
 ```
 .
 ├── build.xml
